@@ -19,4 +19,7 @@ This project analyzes Electric Vehicle (EV) sales across Indian states using Dat
 - Evaluation Metric: Mean Squared Error (MSE)
 - Model MSE: 130.58
 
+## How To Run 
+```
+pip install numpy pandas scikit-learn matplotlib seaborn
 
